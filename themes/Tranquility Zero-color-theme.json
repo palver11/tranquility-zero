@@ -2,10 +2,45 @@
 	"name": "Tranquility Zero",
 	"colors": {
 		"editor.background": "#000000",
-		"editor.foreground": "#eeffff",
+		"editor.foldBackground": "#000000",
+		"editorPane.background": "#000000",
+		"statusBar.background": "#000000",
+		"sideBar.background": "#000000",
+		"breadcrumb.background": "#101010",
+		"menu.background": "#000000",
+		"menu.selectionBackground": "#404040",
+		"panel.background": "#000000",
+		"terminal.background": "#000000",
+		"activityBar.background": "#000000",
+		"activityBarTop.background": "#000000",
+		"titleBar.activeBackground": "#000000",
+		"titleBar.inactiveBackground": "#000000",
+		"tab.activeBackground": "#151515",
+		"tab.inactiveBackground": "#000000",
+		"editorGroupHeader.tabsBackground": "#000000",
+		"actionBar.toggledBackground": "#000000",
+		"statusBar.debuggingBackground": "#000000",
+		"debugToolBar.background": "#000000",
+		"breadcrumbPicker.background": "#000000",
+		"panelSectionHeader.background": "#000000",
+		"toolbar.hoverBackground": "#000000",
+		"toolbar.activeBackground": "#000000",
+		"selection.background": "#303030",
+		"editor.selectionBackground": "#404040",
+		"menubar.selectionBackground": "#404040",
+		"editorStickyScroll.background": "#141414",
+		"list.activeSelectionBackground": "#303030",
+		"list.inactiveSelectionForeground": "#151515",
+		"list.inactiveSelectionForeground": "#c8c8c8",
+		"editor.foreground": "#FF0000",
 		"activityBarBadge.background": "#000000",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#9c9c9c"
 	},
+
+	"workbench.colorCustomizations": {
+		"titleBar.activeBackground": "#ff0000",
+	},
+
 	"tokenColors": [
 		{
 			"name": "Comment",
@@ -63,7 +98,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#846969"
+				"foreground": "#865f5f"
 			}
 		},
 		{
@@ -165,7 +200,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#68866e"
+				"foreground": "#6f8674"
 			}
 		},
 		{
@@ -328,7 +363,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#846969"
+				"foreground": "#865f5f"
 			}
 		},
 		{

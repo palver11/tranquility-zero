@@ -3,6 +3,13 @@
   "displayName": "Tranquility Zero",
   "description": "Tranquility Zero - a dark theme for Visual Studio Code",
   "version": "0.0.1",
+	"license": "CC0-1.0",
+	"preview": true,
+	"icon": "assets/tranquility-zero.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aaronjheng/vscode-spacegray"
+	},
   "engines": {
     "vscode": "^1.92.0"
   },
