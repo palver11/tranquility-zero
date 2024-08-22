@@ -1,0 +1,21 @@
+{
+  "name": "tranquility-zero",
+  "displayName": "Tranquility Zero",
+  "description": "Tranquility Zero - a dark theme for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tranquility Zero",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tranquility Zero-color-theme.json"
+      }
+    ]
+  }
+}
