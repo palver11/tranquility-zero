@@ -4,6 +4,7 @@
   "description": "Tranquility Zero - a dark theme for Visual Studio Code",
   "version": "0.0.1",
 	"license": "CC0-1.0",
+	"publisher": "Palver",
 	"preview": true,
 	"icon": "assets/tranquility-zero.png",
 	"repository": {
